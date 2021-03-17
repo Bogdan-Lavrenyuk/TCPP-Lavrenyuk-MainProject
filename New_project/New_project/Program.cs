@@ -9,6 +9,8 @@ namespace New_project
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hell!");
             Console.WriteLine("World!");
+            Console.WriteLine("Hi, Bob!");
+            Console.WriteLine("Hi, Olga!");
         }
     }
 }
