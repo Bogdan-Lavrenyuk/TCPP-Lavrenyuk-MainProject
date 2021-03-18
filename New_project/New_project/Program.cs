@@ -6,7 +6,7 @@ namespace New_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World from browser!");
             Console.WriteLine("Hell!");
             Console.WriteLine("World!");
             Console.WriteLine("Hi, Bob!");
