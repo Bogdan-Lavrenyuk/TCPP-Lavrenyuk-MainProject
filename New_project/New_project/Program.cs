@@ -12,7 +12,7 @@ namespace New_project
             Console.WriteLine("Hell!");
             Console.WriteLine("World!");
             Console.WriteLine("Hi, Bob!");
-            Console.WriteLine("from IDE");
+            Console.WriteLine("new change");
         }
     }
 }
